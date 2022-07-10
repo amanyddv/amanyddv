@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **React**
 
-- 👯 I’m looking to collaborate on **web Development**
+- 👯 I’m looking to collaborate on **Web Development**
 
 - 📝 I regularly write articles on [https://codeexistspython.blogspot.com/](https://codeexistspython.blogspot.com/)
 
