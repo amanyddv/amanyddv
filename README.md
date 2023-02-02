@@ -2,7 +2,9 @@
 <h1 align="center">Hi 👋, I'm Aman Yadav</h1>
 <h3 align="center">A passionate MEAM STACK Developer from India</h3>
 
-- 🏫 Currently, I am purusing Bachelor's of Technology from United College Of Engineering And Research and Branch Computer Science And Engineering
+- 🏫 Currently, I am purusing Bachelor's of Technology from United College Of Engineering And Research, Branch Computer Science And Engineering.
+- 
+- 📖 I have good knowledge of Data Structure , Algorithm and Object Oriented programming.
 
 - 👯 I’m looking to collaborate on **MEAN STACK Development**
 
