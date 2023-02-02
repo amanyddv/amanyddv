@@ -23,7 +23,7 @@
 <a href="https://www.nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="python" width="40" height="40"/> </a> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg" alt="angularjs" width="40" height="40"/> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="mongodb" width="40" height="40"/> 
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html/html-original.svg" alt="html" width="40" height="40"/> 
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html5" width="40" height="40"/> 
 
 
           
