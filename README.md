@@ -9,6 +9,8 @@
 - 👯 I’m looking to collaborate on **MEAN STACK Development**
 
 - 📫 How to reach me **amanyddv@gmail.comm**
+- Portfolio https://amanyddv.vercel.app/
+- Socialmed https://socialmed.vercel.app/
 
 
 
