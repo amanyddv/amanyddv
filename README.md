@@ -6,11 +6,11 @@
 
 - 𝐈 𝐡𝐚𝐯𝐞 𝐠𝐨𝐨𝐝 𝐤𝐧𝐨𝐰𝐥𝐞𝐝𝐠𝐞 𝐨𝐟 𝐃𝐚𝐭𝐚 𝐒𝐭𝐫𝐮𝐜𝐭𝐮𝐫𝐞 , 𝐀𝐥𝐠𝐨𝐫𝐢𝐭𝐡𝐦 𝐚𝐧𝐝 𝐎𝐛𝐣𝐞𝐜𝐭 𝐎𝐫𝐢𝐞𝐧𝐭𝐞𝐝 𝐩𝐫𝐨𝐠𝐫𝐚𝐦𝐦𝐢𝐧𝐠.
 
-- 𝗜’𝗺 𝗹𝗼𝗼𝗸𝗶𝗻𝗴 𝘁𝗼 𝗰𝗼𝗹𝗹𝗮𝗯𝗼𝗿𝗮𝘁𝗲 𝗼𝗻 **MEAN STACK Development**
+- 𝗜’𝗺 𝗹𝗼𝗼𝗸𝗶𝗻𝗴 𝘁𝗼 𝗰𝗼𝗹𝗹𝗮𝗯𝗼𝗿𝗮𝘁𝗲 𝗼𝗻 **𝐌𝐄𝐀𝐍 𝐒𝐓𝐀𝐂𝐊 𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐦𝐞𝐧𝐭**
 
-- 𝗛𝗼𝘄 𝘁𝗼 𝗿𝗲𝗮𝗰𝗵 𝗺𝗲 **amanyddv@gmail.comm**
-- Portfolio https://amanyddv.vercel.app/
-- Socialmed https://socialmed.vercel.app/
+- 𝗛𝗼𝘄 𝘁𝗼 𝗿𝗲𝗮𝗰𝗵 𝗺𝗲 **𝐚𝐦𝐚𝐧𝐲𝐝𝐝𝐯@𝐠𝐦𝐚𝐢𝐥.𝐜𝐨𝐦𝐦**
+- 𝐏𝐨𝐫𝐭𝐟𝐨𝐥𝐢𝐨 https://amanyddv.vercel.app/
+- 𝐒𝐨𝐜𝐢𝐚𝐥𝐌𝐞𝐝 https://socialmed.vercel.app/
 - ![](https://komarev.com/ghpvc/?username=amanyddv)
 
 
