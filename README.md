@@ -1,5 +1,5 @@
 
-<h1 align="center">Hi 👋, I'm Aman Yadav</h1>
+<h1 align="center">Hi 👋, I'm Aman Yadav</h1> <section style="float:right> ![](https://komarev.com/ghpvc/?username=amanyddv) <section/>
 <h3 align="center">A passionate MEAN STACK Developer from India</h3>
 
 - 🏫 Currently, I am purusing Bachelor's of Technology from United College Of Engineering And Research, Branch Computer Science And Engineering.
@@ -11,7 +11,7 @@
 - 📫 How to reach me **amanyddv@gmail.comm**
 - Portfolio https://amanyddv.vercel.app/
 - Socialmed https://socialmed.vercel.app/
-- ![](https://komarev.com/ghpvc/?username=amanyddv)
+- 
 
 
 
