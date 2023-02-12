@@ -11,6 +11,8 @@
 - 📫 How to reach me **amanyddv@gmail.comm**
 - Portfolio https://amanyddv.vercel.app/
 - Socialmed https://socialmed.vercel.app/
+- ![](https://komarev.com/ghpvc/?username=amanyddv)
+
 
 
 
