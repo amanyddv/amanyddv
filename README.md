@@ -7,8 +7,11 @@
 
 
  𝗛𝗼𝘄 𝘁𝗼 𝗿𝗲𝗮𝗰𝗵 𝗺𝗲 **𝐚𝐦𝐚𝐧𝐲𝐝𝐝𝐯@𝐠𝐦𝐚𝐢𝐥.𝐜𝐨𝐦**
+ 
  𝐏𝐨𝐫𝐭𝐟𝐨𝐥𝐢𝐨 https://amanyddv.vercel.app/
+ 
  𝐒𝐨𝐜𝐢𝐚𝐥𝐌𝐞𝐝 https://socialmed.vercel.app/
+ 
  ![](https://komarev.com/ghpvc/?username=amanyddv)
 
 
