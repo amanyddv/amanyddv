@@ -1,9 +1,10 @@
 
 <h1 align="center">Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="35px"> I'm Aman Yadav</h1>  
-<h3 align="center">A passionate MEAN STACK Developer from India</h3>
+<p>As an aspiring full-stack software developer, I am pursuing a Bachelor's of Technology in Computer Science and Engineering and have developed a strong foundation in a range of technical skills. With expertise in Angular, Node.js, MongoDB, and C++, I am skilled at building robust web applications . I am also familiar with C, Python, Vercel, and Supabase and have experience with competitive programming on platforms like LeetCode.
 
- 𝐂𝐮𝐫𝐫𝐞𝐧𝐭𝐥𝐲, 𝐈 𝐚𝐦 𝐩𝐮𝐫𝐮𝐬𝐢𝐧𝐠 𝐁𝐚𝐜𝐡𝐞𝐥𝐨𝐫'𝐬 𝐨𝐟 𝐓𝐞𝐜𝐡𝐧𝐨𝐥𝐨𝐠𝐲 𝐟𝐫𝐨𝐦 𝐔𝐧𝐢𝐭𝐞𝐝 𝐂𝐨𝐥𝐥𝐞𝐠𝐞 𝐎𝐟 𝐄𝐧𝐠𝐢𝐧𝐞𝐞𝐫𝐢𝐧𝐠 𝐀𝐧𝐝 𝐑𝐞𝐬𝐞𝐚𝐫𝐜𝐡, 𝐁𝐫𝐚𝐧𝐜𝐡 𝐂𝐨𝐦𝐩𝐮𝐭𝐞𝐫 𝐒𝐜𝐢𝐞𝐧𝐜𝐞 𝐀𝐧𝐝 𝐄𝐧𝐠𝐢𝐧𝐞𝐞𝐫𝐢𝐧𝐠.
- 𝐈 𝐡𝐚𝐯𝐞 𝐠𝐨𝐨𝐝 𝐤𝐧𝐨𝐰𝐥𝐞𝐝𝐠𝐞 𝐨𝐟 𝐃𝐚𝐭𝐚 𝐒𝐭𝐫𝐮𝐜𝐭𝐮𝐫𝐞 , 𝐀𝐥𝐠𝐨𝐫𝐢𝐭𝐡𝐦 𝐚𝐧𝐝 𝐎𝐛𝐣𝐞𝐜𝐭 𝐎𝐫𝐢𝐞𝐧𝐭𝐞𝐝 𝐩𝐫𝐨𝐠𝐫𝐚𝐦𝐦𝐢𝐧𝐠.
+As a computer science engineering student, I am committed to staying up-to-date with the latest trends and technologies in my field. My goal is to apply my technical skills and knowledge to solve complex problems and deliver innovative solutions for clients. I am a hardworking, detail-oriented individual who enjoys collaborating with others and taking on new challenges.
+
+If you're looking for a full-stack software developer who is passionate about building top-quality web applications and staying at the forefront of the latest technological advancements, I would love to connect with you. Please feel free to reach out to me to discuss potential opportunities or collaborations. </p>
 
 
 𝐄𝐦𝐚𝐢𝐥 : **𝐚𝐦𝐚𝐧𝐲𝐝𝐝𝐯@𝐠𝐦𝐚𝐢𝐥.𝐜𝐨𝐦**
