@@ -1,4 +1,5 @@
-[![Harman's GitHub README](https://api.harmansandhu.tech/?username=amanyddv)](https://github.com/Harman-Sandhu/github-readme-generator)
+
+<h1 align="center">Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="35px"> I'm Aman Yadav</h1>  
 <p align="justify">As an aspiring full-stack software developer, I am pursuing a Bachelor's of Technology in Computer Science and Engineering and have developed a strong foundation in a range of technical skills. With expertise in Angular, Node.js, MongoDB, and C++, I am skilled at building robust web applications . I am also familiar with C, Python, Vercel, and Supabase and have experience with competitive programming on platforms like LeetCode.
 
 As a computer science engineering student, I am committed to staying up-to-date with the latest trends and technologies in my field. My goal is to apply my technical skills and knowledge to solve complex problems and deliver innovative solutions for clients. I am a hardworking, detail-oriented individual who enjoys collaborating with others and taking on new challenges.
