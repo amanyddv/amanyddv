@@ -11,7 +11,7 @@ If you're looking for a full-stack software developer who is passionate about bu
  
  𝐏𝐨𝐫𝐭𝐟𝐨𝐥𝐢𝐨 https://amanyddv.vercel.app/
  
- 𝐒𝐨𝐜𝐢𝐚𝐥𝐌𝐞𝐝 https://socialmed.vercel.app/
+
  
  ![](https://komarev.com/ghpvc/?username=amanyddv)
 
