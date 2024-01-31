@@ -9,7 +9,6 @@ If you're looking for a full-stack software developer who is passionate about bu
 
 𝐄𝐦𝐚𝐢𝐥 : **𝐚𝐦𝐚𝐧𝐲𝐝𝐝𝐯@𝐠𝐦𝐚𝐢𝐥.𝐜𝐨𝐦**
  
- 𝐏𝐨𝐫𝐭𝐟𝐨𝐥𝐢𝐨 https://amanyddv.vercel.app/
  
 
  
