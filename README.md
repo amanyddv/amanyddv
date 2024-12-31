@@ -7,7 +7,7 @@ As a computer science engineering student, I am committed to staying up-to-date 
 If you're looking for a full-stack software developer who is passionate about building top-quality web applications and staying at the forefront of the latest technological advancements, I would love to connect with you. Please feel free to reach out to me to discuss potential opportunities or collaborations. </p>
 
 
-𝐄𝐦𝐚𝐢𝐥 : **𝐚𝐦𝐚𝐧𝐲𝐝𝐝𝐯@𝐠𝐦𝐚𝐢𝐥.𝐜𝐨𝐦**
+𝐄𝐦𝐚𝐢𝐥 : **𝐚𝐦𝐚𝐧𝐲𝐝d𝐝𝐯@𝐠𝐦𝐚𝐢𝐥.𝐜𝐨𝐦**
   
  ![](https://komarev.com/ghpvc/?username=amanyddv)
 
