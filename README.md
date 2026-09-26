@@ -14,10 +14,6 @@ I hold a Bachelor's of Technology in Computer Science and Engineering from Unite
 ### 🛠️ Tech Stack
 `MongoDB` `Express.js` `React.js` `Node.js` `React Native` `Angular` `TypeScript` `JavaScript` `C++` `Python` `Docker` `Linux` `Git`
 
-### 🏆 Achievements
-- 🥇 First Prize, UHack 2022 — United Group of Institutions
-- 🥈 Best Project Prize, Technovanza 2023 — United Group of Institutions
-- 💻 CodeChef Rating: 1466
 
 I'm always up for collaborating on interesting full-stack challenges — feel free to reach out!
 
