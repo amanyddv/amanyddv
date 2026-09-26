@@ -12,7 +12,7 @@ I hold a Bachelor's of Technology in Computer Science and Engineering from Unite
 - **Suraj Typing & Shorthand Center** — An ed-tech exam platform for typing/shorthand tests with real-time wrong-word highlighting, multi-language font rendering, and configurable scoring per exam type.
 
 ### 🛠️ Tech Stack
-`MongoDB` `Express.js` `React.js` `Node.js` `React Native` `Angular` `TypeScript` `JavaScript` `C++` `Python` `Docker` `Linux` `Git`
+`MySQL` `Express.js` `React.js` `Node.js` `React Native` `Angular` `TypeScript` `JavaScript` `C++` `Python` `Docker` `Linux` `Git`
 
 
 I'm always up for collaborating on interesting full-stack challenges — feel free to reach out!
