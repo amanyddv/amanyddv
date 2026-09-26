@@ -5,8 +5,8 @@ I hold a Bachelor's of Technology in Computer Science and Engineering from Unite
 
 ### 🚀 What I've Built
 
-- **IPA HRMs** — An enterprise HR management system for the Indian Ports Association, built from the ground up with role-based access control, geo-fenced attendance with face recognition, shift & roster management, leave approval workflows, and automated payroll/payslip generation.
-- **Cruise Bharat Mission (CBM)** — A government river-tourism web platform with interactive route & port maps, image galleries, and a WCAG-compliant accessibility module (contrast themes, adjustable font sizes).
+<!-- - **IPA HRMs** — An enterprise HR management system for the Indian Ports Association, built from the ground up with role-based access control, geo-fenced attendance with face recognition, shift & roster management, leave approval workflows, and automated payroll/payslip generation.
+- **Cruise Bharat Mission (CBM)** — A government river-tourism web platform with interactive route & port maps, image galleries, and a WCAG-compliant accessibility module (contrast themes, adjustable font sizes). -->
 - **PB Club** — A subscription-based real-time chat & membership mobile app with WhatsApp OTP verification, audio messaging, and membership plan management.
 - **Real Estate Platform** — A property listing website and companion customer app with a full admin panel for plot/property CRUD and listing management.
 - **Suraj Typing & Shorthand Center** — An ed-tech exam platform for typing/shorthand tests with real-time wrong-word highlighting, multi-language font rendering, and configurable scoring per exam type.
@@ -14,10 +14,6 @@ I hold a Bachelor's of Technology in Computer Science and Engineering from Unite
 ### 🛠️ Tech Stack
 `MongoDB` `Express.js` `React.js` `Node.js` `React Native` `Angular` `TypeScript` `JavaScript` `C++` `Python` `Docker` `Linux` `Git`
 
-### 🏆 Achievements
-- 🥇 First Prize, UHack 2022 — United Group of Institutions
-- 🥈 Best Project Prize, Technovanza 2023 — United Group of Institutions
-- 💻 CodeChef Rating: 1466
 
 I'm always up for collaborating on interesting full-stack challenges — feel free to reach out!
 
